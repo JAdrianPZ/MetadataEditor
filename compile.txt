@@ -1,0 +1,1 @@
+pyinstaller --onefile --windowed --icon=meta.ico main_ui.py --add-binary "C:\Python\Python310\tcl\tkdnd2.9.2;tkdnd2.9.2"
