@@ -1,7 +1,11 @@
-# Metadata Inserter
+# Metadata Editor
 
-This tool allows you to edit image metadata to be compatible with Civitai's resources, such as checkpoints, LORAs. So far windows only, working on more options.
+This tool allows you to edit image metadata, such as checkpoints, LORAs. So far windows only, working on more options.
 ![Image of the UI](https://image.civitai.com/xG1nkqKTMzGDvpLrqFT7WA/dfe6ce9f-755d-461a-86fc-ca352174d9a2/width=525/dfe6ce9f-755d-461a-86fc-ca352174d9a2.jpeg) 
+
+## Download Here
+   [Windows V1.1](https://github.com/JAdrianPZ/MetadataEditor/releases/download/V1.1/main_ui.exe)
+ 
 
 ## Features
 
