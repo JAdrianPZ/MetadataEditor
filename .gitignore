@@ -20,3 +20,4 @@ dist/
 
 # Ignore environment configuration files
 .env
+main_ui.spec
