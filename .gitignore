@@ -1,0 +1,22 @@
+# Ignore Python compiled files
+*.pyc
+__pycache__/
+
+# Ignore virtual environments
+myenv/
+.env/
+
+# Ignore distribution/build directories
+build/
+dist/
+
+# Ignore editor-specific files (for example, Visual Studio Code)
+.vscode/
+.idea/
+
+# Ignore logs and other artifacts
+*.log
+*.sqlite3
+
+# Ignore environment configuration files
+.env
