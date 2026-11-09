@@ -1,0 +1,7 @@
+{
+  "name": "metadata-editor-validation",
+  "private": true,
+  "type": "module",
+  "description": "Optional local Civitai metadata compatibility checks",
+  "devDependencies": { "@civitai/generation-metadata": "0.4.0" }
+}
